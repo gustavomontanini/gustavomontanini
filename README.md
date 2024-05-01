@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!! 👋 
+
+![image](https://github.com/gustavomontanini/gustavomontanini/assets/168143050/6c40f9c5-e5de-447e-9376-47b7597e8e2b)
 
 <!--
 **gustavomontanini/gustavomontanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
