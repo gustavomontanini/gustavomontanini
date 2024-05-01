@@ -1,9 +1,14 @@
 ### Hi there!! 👋 
 
-![image](https://github.com/gustavomontanini/gustavomontanini/assets/168143050/6c40f9c5-e5de-447e-9376-47b7597e8e2b)
-
 <!--
-**gustavomontanini/gustavomontanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o **Gustavo Montanini**, um estudante de Engenharia de Software na UniFil!
+
+
+PRIMEIRAMENTE! Saudem o Bode, pois tudo a Ele pertence.
+
+
+![image](https://github.com/gustavomontanini/gustavomontanini/assets/168143050/31c8a0b1-8c6f-4f7d-9752-e1e7c7ac1d77)
+
 
 Here are some ideas to get you started:
 
